@@ -1,55 +1,17 @@
-Mangesh Khude 🚀
-Lead Big Data Engineer | Spark & Scala Architect | AWS Data Pioneer
+# 💫 About Me:
+●	Lead Big Data Engineer with 8+ years in Spark, Scala & AWS. Spearheaded SCD 2 ingestion pipelines handling 100 TB daily data, reducing latency by 30%. Skilled in team leadership, automation, and cross-functional delivery.<br>●	8+ years of experience building production-grade Big Data solutions using Spark, Scala, Hadoop, Hive, and AWS (EMR, S3, EC2, SNS).<br>●	Strong understanding of Software Design, Development and Implementation and knowledge of various technologies like Spark, Scala, Java, Hive, HDFS, AWS. <br>●	Proficient in RDBMS (Oracle, MySQL, MSSQL, Redshift) and DevOps tools (TeamCity, UDeploy, Jenkins, Autosys).<br><br>
 
-​
 
-Pioneering the next era of data engineering with scalable pipelines processing 100TB+ daily. Leading transformations in Spark, Scala, and AWS to unlock real-time insights and slash latencies by 30%+.
-​
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mangesh-khude-87b674bb) 
 
-🌌 Expertise Matrix
-Domain	Mastery Level	Key Impacts
-Big Data	Spark Core/SQL, Hadoop, Hive, PIG	SCD2 pipelines for 100TB/day, 30% latency reduction 
-​
-Languages	Scala, Java, Python, SQL	Migrated Pig to Spark, 40% ETL speedup 
-​
-Cloud	AWS EMR/EC2/S3/SNS/EventBridge	Golden AMI optimization, 3% cost savings 
-​
-Orchestration	Airflow, Autosys, GitHub Actions, TeamCity	Zero-downtime GitLab to GitHub migrations 
-​
-Databases	Oracle, Redshift, MSSQL, Hive	Incremental JSON/XML/Parquet processing 
-​
-🛠️ Projects Unleashed
-Data Platforms @ Optum (2024-Present): Spark/Python pipelines for 200 datasets/day; 25% processing time cut via tuning; GitHub Copilot integration for code velocity.
-​
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mangesh22121992&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mangesh22121992&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangesh22121992&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Data Ingestion @ ISG/CITI (2021-2023): Spark/Scala SCD2 for 50GB/day; metadata-driven orchestration, 25% faster jobs.
-​
+---
+[![](https://visitcount.itsvg.in/api?id=mangesh22121992&icon=0&color=0)](https://visitcount.itsvg.in)
 
-GOAML Uganda @ Absa (2021): 5M tx/week AML pipelines; automated XML reports, 80% manual reduction.
-​
-
-ComlinkData (2018-2020): Legacy migration to AWS EMR/Spark, 50% runtime drop; Python automation.
-​
-
-🔥 Stats & Achievements
-text
-📊 8+ Years Experience
-💼 6 Companies: Wipro, Synechron, LNT, Infobeans, Ohum, Techbodhi
-🔥 100TB+ Daily Pipelines
-⚡ 40%+ Latency Reductions
-👥 Team Lead for 2-6 Members
-🎓 BCA Pune University 2016
-🔮 Vision Forward
-Exploring AI-driven data ops, quantum-safe pipelines, and real-time ML integrations. GitHub Copilot evangelist pushing boundaries in automated CICD and scalable EMR clusters. Open to collaborations on next-gen big data frontiers.
-​
-
-📫 Connect
-📧 mangesh22121992@gmail.com
-
-📱 +91 9764125025
-
-🔗 LinkedIn
-
-🗺️ Pimpri, Maharashtra, India
-
-Star this repo to quantum-leap into the future of data! 🌟
