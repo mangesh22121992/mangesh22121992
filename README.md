@@ -10,5 +10,5 @@
 
 
 ---
-[![Java, Scala, Python](https://visitcount.itsvg.in/api?id=mangesh22121992&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
