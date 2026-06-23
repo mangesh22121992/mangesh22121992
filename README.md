@@ -1,5 +1,5 @@
 # 💫 About Me:
-●	Lead Big Data Engineer with 8+ years in Spark, Scala & AWS. Spearheaded SCD 2 ingestion pipelines handling 100 TB daily data, reducing latency by 30%. Skilled in team leadership, automation, and cross-functional delivery.<br>●	8+ years of experience building production-grade Big Data solutions using Spark, Scala, Hadoop, Hive, and AWS (EMR, S3, EC2, SNS).<br>●	Strong understanding of Software Design, Development and Implementation and knowledge of various technologies like Spark, Scala, Java, Hive, HDFS, AWS. <br>●	Proficient in RDBMS (Oracle, MySQL, MSSQL, Redshift) and DevOps tools (TeamCity, UDeploy, Jenkins, Autosys).<br><br>
+●	Lead Big Data Engineer with 9+ years in Spark, Scala & AWS. Spearheaded SCD 2 ingestion pipelines handling 100 TB daily data, reducing latency by 30%. Skilled in team leadership, automation, and cross-functional delivery.<br>●	9+ years of experience building production-grade Big Data solutions using Spark, Scala, Hadoop, Hive, and AWS (EMR, S3, EC2, SNS).<br>●	Strong understanding of Software Design, Development and Implementation and knowledge of various technologies like Spark, Scala, Java, Hive, HDFS, AWS. <br>●	Proficient in RDBMS (Oracle, MySQL, MSSQL, Redshift) and DevOps tools (TeamCity, UDeploy, Jenkins, Autosys).<br><br>
 
 
 ## 🌐 Socials:
